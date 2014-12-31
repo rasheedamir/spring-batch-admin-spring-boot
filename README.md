@@ -1,3 +1,12 @@
+The steps that must have been done:
+
+* Tie together all necessary libraries (Spring, Spring Boot, Spring Batch Admin, Spring Batch)
+* Create main method with Spring Boot
+* Define properties for Spring Boot
+* Define properties for metadata database
+* Override some beans that are incompatible with Spring Boot
+* Load Spring Batch Admin application context
+
 spring-batch-admin-spring-boot
 ================================
 
